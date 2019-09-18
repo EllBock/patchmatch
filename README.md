@@ -1,2 +1,1 @@
-# patchmatch
-Python implementation of PatchMatch
+# Python implementation of PatchMatch
